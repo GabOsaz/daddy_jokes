@@ -1,0 +1,14 @@
+{
+  "name": "daddy_jokes_app",
+  "version": "1.0.0",
+  "description": "First node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omogiade Osaze Okpebho",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
